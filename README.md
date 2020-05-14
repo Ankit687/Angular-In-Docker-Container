@@ -1,5 +1,5 @@
 # Angular-In-Docker-Container
-This is method very simple to do, using node I created image
+TThis method is used without nginx server, I used node to create image
 
 <pre>sudo docker-compose run frontend ng new app</pre>
 
