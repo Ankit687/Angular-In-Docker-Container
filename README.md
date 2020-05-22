@@ -6,4 +6,5 @@ This method is used without nginx server, I used node to create image
 You should root access to user
 <pre>sudo chown -R $USER:$USER .</pre>
 
+this is for run container with docker-compose
 <pre>sudo docker-compose up</pre>
